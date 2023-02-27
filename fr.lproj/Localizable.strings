@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  TechnicalTest
+
+  Created by Mathieu Nolot on 25/02/2023.
+  
+*/
+
+"Top headlines" = "Gros titres";
+"No article.." = "Aucun article..";
+"Loading articles.." = "Chargement des articles..";
+"Open" = "Ouvrir";
+"Open in browser" = "Ouvrir dans le navigateur";
