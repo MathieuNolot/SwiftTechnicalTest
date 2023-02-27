@@ -4,7 +4,7 @@
 Test technique visant à développer une application permettant d'afficher l'ensemble des news en français depuis l'API: https://newsapi.org/docs.
 
 
-![Preview](url)
+![Preview](https://github.com/MathieuNolot/SwiftTechnicalTest/blob/main/Preview.png)
 
 
 ## Composition de l'application
